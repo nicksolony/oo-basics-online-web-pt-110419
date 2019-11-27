@@ -1,4 +1,4 @@
-def Book
+class Book
   
   
   
